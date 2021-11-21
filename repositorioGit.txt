@@ -1,6 +1,13 @@
 https://www.youtube.com/watch?v=eQMcIGVc8N0&ab_channel=CristianHenao
 
+git config --global user.email
+git config --global user.name 
+
 git start
 git status
 git add archivo
-git add . 77 para todo 
+git add . 77 para todo
+git push -u origin main
+git commit -m "comentario"
+
+git push -u origin main 
