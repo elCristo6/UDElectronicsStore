@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=eQMcIGVc8N0&ab_channel=CristianHenao
+
+git start
+git status
+git add archivo
+git add . 77 para todo 

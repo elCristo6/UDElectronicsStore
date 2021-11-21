@@ -1,0 +1,18 @@
+1.Terminal newTerminal
+2.npx create-react-app nombreApp
+3. cd nameApp
+cd /carpeta de la app
+4.npm start 
+5. remove unused file 
+app.js
+app.test.js
+setupTests.js
+logo.sv
+6. add body to app.js
+7. add styles to idex.css
+8. add to index.css
+
+#root{
+	height : 100%
+}
+10.create data.js 
